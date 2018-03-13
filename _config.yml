@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Laio Viana
 tagline: Full Stack Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '<p>6+ years experience and expertise in Software Development. Most of the time working with C# .NET, JavaScript , AngularJS, Java and Android Development.</p>
+summary: '<p>6+ years of experience and expertise in Software Development. Most of the time working with C# .NET, JavaScript , AngularJS, Java and Android Development.</p>
 <p>Very flexible and adaptable professional, with good interpersonal relation skills.</p>
 <p>Passionate for innovative ideas and entrepreneurship.</p>
 <p>You can <a href="#" target="_blank">download the english version of my PDF resume here</a> or <a href="#" target="_blank">the portuguese version here</a></p>'
@@ -23,7 +23,7 @@ summary: '<p>6+ years experience and expertise in Software Development. Most of 
 email: laioviana@gmail.com
 phone: +55 85 988027260
 website: laio.me #do not add http://
-linkedin: laio-viana-bezerra-364174b
+linkedin: laioviana
 github: laioviana
 twitter: '@laioviana'
 #Update all the sections by editing the files inside _data folder.

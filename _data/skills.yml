@@ -2,7 +2,7 @@
   name: Javascript & jQuery
   level: 98%
 - skill:
-  name: Angular
+  name: AngularJS
   level: 98%
 - skill:
   name: Android
@@ -15,4 +15,10 @@
   level: 85%
 - skill:
   name: C# .NET
+  level: 85%
+- skill:
+  name: Oracle
+  level: 85%
+- skill:
+  name: PostgreSQL
   level: 85%

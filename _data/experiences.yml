@@ -11,28 +11,27 @@
   laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
   architecto beatae vitae dicta sunt explicabo."
 - experience:
-  role: Software Analyst
+  role: Senior Software Analyst
   time: 2011 - 2016
   company: Secretaria do Planejamento e Gestão do Estado do Ceará, Fortaleza
   details: "Development of planning and financial software to the state of Ceara using C# .NET
-            
+            <br> <br>
             Prepares the software requirements and specifications document
-
+            <br> <br>
             Provide assistance and advice to business users in the effective use of applications and information technology.
-
+              <br> <br>
             Provide technical expertise and recommendations in assessing new software project.
-
-            Identify opportunities that can improve efficiency of business processes."
+              <br> <br>
+            Identify opportunities that can improve efficiency of business processes.
+              <br> <br>
+             Technologies: C# .NET, Oracle, Crystal Report "
 - experience:
   role: Co-founder
   time: 2012
   company: Vitrola App, Fortaleza
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Create new features and prospection of new clients "
 - experience:
-  role: Developer
+  role: Junior Developer
   time: 2010 - 2011
   company: Coordenadoria de TI do Município de Fortaleza, Fortaleza
   details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
