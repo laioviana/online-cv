@@ -8,11 +8,14 @@
   name: Android
   level: 75%
 - skill:
+  name: Java
+  level: 85%
+- skill:
   name: HTML5 & CSS
   level: 98%
 - skill:
-  name: Java
-  level: 85%
+  name: Kotlin
+  level: 70%
 - skill:
   name: C# .NET
   level: 85%
