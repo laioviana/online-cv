@@ -2,14 +2,12 @@
   role: Full Stack Developer
   time: 2016 - Present
   company: Secretaria do Desenvolvimento Agrário do Ceará, Fortaleza
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "Working with a compact and highly efficient team, building web and mobile applications to increase State of Ceará productivity in local rural areas. Our main goal is to help families benefit from several support programs.
+            <br><br>
+            One of our mobile application is Gestão de ATER. App with a large number of daily users,  also with an impact on more than 18.000 families at Ceará rural area.
+            <br><br>
+            Technologies: JavaScript, Java, Android, AngularJS, Spring Framework,
+            Hibernate, Kotlin, Jasper Studio, BI (Pentaho), Realm , Postgresql, GIT, Jira, and Bitbucket."
 - experience:
   role: Senior Software Analyst
   time: 2011 - 2016
@@ -22,19 +20,21 @@
               <br> <br>
             Provide technical expertise and recommendations in assessing new software project.
               <br> <br>
-            Identify opportunities that can improve efficiency of business processes.
+            Identify opportunities that can improve the efficiency of business processes.
               <br> <br>
-             Technologies: C# .NET, Oracle and Crystal Report "
+             Technologies: C# .NET, Oracle, and Crystal Report "
 - experience:
   role: Co-founder
   time: 2012
   company: Vitrola App, Fortaleza
-  details: "Create new features and prospection of new clients "
+  details: "Development of new features
+            <br><br>
+            Prospecting new clients
+            <br><br>
+            Very active in the entrepreneurship/startups local scene
+            "
 - experience:
   role: Junior Developer
   time: 2010 - 2011
   company: Coordenadoria de TI do Município de Fortaleza, Fortaleza
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: ""
